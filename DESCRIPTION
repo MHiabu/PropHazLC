@@ -1,11 +1,8 @@
 Package: PropHazLC
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
-Encoding: UTF-8
-LazyData: true
+Title: Smooth Backfitting of multiplicative hazard via local constant estimation
+Version: 0.0.1
+Author: person("Munir", "Hiabu", email = "munir.hiabu@sydney.edu.au")
+Maintainer: Munir Hiabu <munir.hiabu@sydney.edu.au>
+Description: Fits a hazard function under the model descriped in https://arxiv.org/abs/1707.04622
+
